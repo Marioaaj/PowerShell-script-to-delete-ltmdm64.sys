@@ -1,3 +1,10 @@
+*Process Closer*
+This script is used to close processes across multiple workstations automatically as long as the name of the process is known.
+
+*CreateAShortcut for A webportal.ps1*
+This is a way to automaticly create a shortcut to a specific webpage once the script gets deployed accross the target workstations.
+
+*itmdm64-Deletion.ps1*
 This script was created in reponse to the article named "Patch Tuesday: Windows users hacked due to legacy fax modem driver" by Edward Targett
 He explains that there is a legacy file that appears on systems that can be used to hack stuff. This file is present on most windows computers.
 
